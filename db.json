@@ -1,0 +1,24 @@
+{
+	"authors": [
+		{
+			"id": 1,
+			"name": "Fernando Pesoa"
+		},
+		{
+			"id": 2,
+			"name": "Pekka Heiman"
+		}
+	],
+	"books": [
+		{
+			"id": 1,
+			"author_id": 1,
+			"name": "El libro del desasociego"
+		},
+		{
+			"id": 2,
+			"author_id": 2,
+			"name": "La ética hacker y el espíritu de la era de información"
+		}
+	]
+}
